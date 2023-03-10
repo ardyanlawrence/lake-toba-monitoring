@@ -1,9 +1,9 @@
 # Lake Toba Monitoring
 ![Flowchart](docs/device.png)  
-![Sensor](docs/sensor.png)  
+![Sensor](docs/sensor.jpeg)  
 ![Sensor 2](docs/sensor2.png)
-![Installation](docs/instalasi.png)
-![Installation 2](docs/instalasi2.png) 
+![Installation](docs/instalasi.jpeg)
+![Installation 2](docs/instalasi2.jpeg) 
 
 
 # Wi-Fi Sensor Node
