@@ -1,7 +1,7 @@
 # Wi-Fi Sensor Node
-WiFi Sensor Node for sending data to cloud.
+WiFi Sensor Node for sending data to cloud.  
 
-Flowchart
+Flowchart  
 
 ![Flowchart](docs/Flowchart.png)
 
